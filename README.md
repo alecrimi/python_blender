@@ -1,7 +1,7 @@
 # python_blender
 
 The easiest way to work with brain tractography within Blender 3D is to either load them as tck and trk file (from DiPy o MRITRIX) or to compute them directly from the Python console of Blender.
-![alt text][[https://github.com/alecrimi/python_blender/blob/main/Capture_TRK.PNG|width=100px]]
+![alt text]([[https://github.com/alecrimi/python_blender/blob/main/Capture_TRK.PNG|width=100px]])
 
 
 ![alt text](https://github.com/alecrimi/python_blender/blob/main/Capture_Blender.PNG  )
